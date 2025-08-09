@@ -58,7 +58,7 @@
 | [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-12-24 13:03:44|
 | [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-11-12 01:35:21|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
-| [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
+| [补偿时间轴计算](https://github.com/bbareo/carryover_cal) <!--cont.-->| [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
 | [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
 | [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-02-12 08:06:58|

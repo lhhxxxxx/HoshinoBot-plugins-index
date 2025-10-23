@@ -168,7 +168,7 @@
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |2022-02-16 22:27:41|
 | [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |2021-12-01 10:48:17|
 | [crazywords](https://github.com/zangxx66/crazywordsForHoshinoBot) | [@zangxx66](https://github.com/zangxx66) | 疯言疯语生成器，灵感来源[@Vieww](https://github.com/Vieww) |2021-11-23 23:33:44|
-| [闲聊反并发工具](https://github.com/lhhxxxxx/hoshino_tool) <!--cont.-->| [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发，推荐在各AI聊天插件中使用 |2021-11-19 19:58:53|
+| [闲聊反并发工具](https://github.com/lhhxxxxx/hoshino_tool) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发，推荐在各AI聊天插件中使用 |2021-11-19 19:58:53|
 | [genshin_price](https://github.com/lhhxxxxx/genshin_price) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 查询账号估价 |2021-11-20 21:44:46|
 | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi) | [@mahosho](https://github.com/mahosho) | img\n要我一直img吗 |2022-02-13 05:57:12|
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
@@ -220,7 +220,7 @@
 | [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
 | [P站搜索](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new) | [@scofieldle](https://github.com/scofieldle) | 使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画 |2022-06-21 09:49:47|
 | [崩3日历](https://github.com/NepPure/bh3_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
-| [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2024-07-13 09:49:19|
+| [原神日历](https://github.com/NepPure/genshin_calendar) <!--cont.-->| [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2024-07-13 09:49:19|
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-09-15 15:51:55|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2024-07-06 13:53:56|
 | [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
